@@ -94,8 +94,8 @@
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-start">
-                                <div class="col-lg-7">
-                                    <h1 class="display-2 mb-5 animated slideInDown text-white">KEBUN TOMAT <br> PINTAR</h1>
+                                <div class="col-lg-12">
+                                    <h1 class="display-2 mb-5 animated slideInDown text-white">KEBUN TOMAT  PINTAR</h1>
 
                                 </div>
                             </div>
